@@ -93,3 +93,11 @@ body{
     margin-bottom: -60px;
 }
 
+.social-icons{
+    display: flex;
+    list-style-type: none;
+    font-size: 40px;
+    align-items: center;
+    gap: 15px;
+    padding-left: 55px;
+}
