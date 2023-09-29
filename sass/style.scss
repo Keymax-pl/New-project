@@ -72,5 +72,23 @@ body{
 }
 
 .portfolio{
-    background-color: #ced4da;
+    background-color: #e9ecef;
+    padding: 100px 0;
+    .portfolio-title{
+        padding-bottom: 100px;
+    }
+}
+
+.card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 100px;
+}
+
+.card-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: -60px;
 }
